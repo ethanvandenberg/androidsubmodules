@@ -31,6 +31,6 @@ porting repo to use git-submodules should be a fairly easy process.
         http://www.kernel.org/pub/software/scm/git-core/docs/git-submodule.html (man page)
         http://www.kernel.org/pub/software/scm/git/docs/user-manual.html#submodules (user manual)
         http://www.gitcasts.com/posts/git-submodules (git cast)
-        http://git.or.cz/gitwiki/SubprojectSupport (mailing list)
+        http://thread.gmane.org/gmane.comp.version-control.git/44106 (mailing list)
         http://git.or.cz/gitwiki/SubprojectSupport
 
