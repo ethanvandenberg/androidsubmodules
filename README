@@ -1,0 +1,36 @@
+GIT-SUBMODULES INSTEAD OF REPO
+==============================
+
+  Google(Shawn Pearce) has done an awesome job with their tool repo for android source management. 
+I feel that it would be great if git-submodules could gain some of it's features. In my opinion 
+porting repo to use git-submodules should be a fairly easy process.
+
+
+*TODO*
+    * git-clone needs an option to clone hook scripts. 
+            (Reasoning: So that uploading to isssue tracker Gerrit can be setup properly.)
+            (Reasoning: So that tarballs can be copied into dir similar to repo.)
+    * git-submodule needs to be augmented (rm, mv)
+
+*References*
+    Repo
+        http://source.android.com/download/using-repo (documentation)
+        http://git.source.android.com/?p=tools/repo.git;a=summary (repository)
+        http://groups.google.com/group/repo-discuss (mailing list)
+        http://source.android.com/submit-patches/workflow (workflow)
+
+    Gerrit (aka. Rietveld, Mondrian)
+        http://git.source.android.com/?p=tools/gerrit.git;a=summary (repository)
+        http://code.google.com/p/rietveld/
+        http://code.google.com/appengine/articles/rietveld.html
+        http://googleappengine.blogspot.com/2008/05/open-source-app-rietveld-code-review.html
+        http://codereview.appspot.com/
+        http://www.youtube.com/watch?v=sMql3Di4Kgc
+
+    git-submodule
+        http://www.kernel.org/pub/software/scm/git-core/docs/git-submodule.html (man page)
+        http://www.kernel.org/pub/software/scm/git/docs/user-manual.html#submodules (user manual)
+        http://www.gitcasts.com/posts/git-submodules (git cast)
+        http://git.or.cz/gitwiki/SubprojectSupport (mailing list)
+        http://git.or.cz/gitwiki/SubprojectSupport
+
