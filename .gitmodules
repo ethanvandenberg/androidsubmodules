@@ -1,0 +1,327 @@
+[submodule "kernel/common"]
+	path = kernel/common
+	url = git://android.git.kernel.org/kernel/common.git
+[submodule "kernel/msm"]
+	path = kernel/msm
+	url = git://android.git.kernel.org/kernel/msm.git
+[submodule "tools/android-issuetrackerredirect"]
+	path = tools/android-issuetrackerredirect
+	url = git://android.git.kernel.org/tools/android-issuetrackerredirect.git
+[submodule "tools/egit"]
+	path = tools/egit
+	url = git://android.git.kernel.org/tools/egit.git
+[submodule "tools/gerrit"]
+	path = tools/gerrit
+	url = git://android.git.kernel.org/tools/gerrit.git
+[submodule "tools/manifest"]
+	path = tools/manifest
+	url = git://android.git.kernel.org/tools/manifest.git
+[submodule "tools/protobuf"]
+	path = tools/protobuf
+	url = git://android.git.kernel.org/tools/protobuf.git
+[submodule "tools/repo"]
+	path = tools/repo
+	url = git://android.git.kernel.org/tools/repo.git
+[submodule "bionic"]
+	path = bionic
+	url = git://android.git.kernel.org/platform/bionic.git
+[submodule "bootloader/legacy"]
+	path = bootloader/legacy
+	url = git://android.git.kernel.org/platform/bootloader/legacy.git
+[submodule "build"]
+	path = build
+	url = git://android.git.kernel.org/platform/build.git
+[submodule "dalvik"]
+	path = dalvik
+	url = git://android.git.kernel.org/platform/dalvik.git
+[submodule "development"]
+	path = development
+	url = git://android.git.kernel.org/platform/development.git
+[submodule "external/aes"]
+	path = external/aes
+	url = git://android.git.kernel.org/platform/external/aes.git
+[submodule "external/apache-http"]
+	path = external/apache-http
+	url = git://android.git.kernel.org/platform/external/apache-http.git
+[submodule "external/bluez"]
+	path = external/bluez
+	url = git://android.git.kernel.org/platform/external/bluez.git
+[submodule "external/clearsilver"]
+	path = external/clearsilver
+	url = git://android.git.kernel.org/platform/external/clearsilver.git
+[submodule "external/dbus"]
+	path = external/dbus
+	url = git://android.git.kernel.org/platform/external/dbus.git
+[submodule "external/dhcpcd"]
+	path = external/dhcpcd
+	url = git://android.git.kernel.org/platform/external/dhcpcd.git
+[submodule "external/dropbear"]
+	path = external/dropbear
+	url = git://android.git.kernel.org/platform/external/dropbear.git
+[submodule "external/elfcopy"]
+	path = external/elfcopy
+	url = git://android.git.kernel.org/platform/external/elfcopy.git
+[submodule "external/elfutils"]
+	path = external/elfutils
+	url = git://android.git.kernel.org/platform/external/elfutils.git
+[submodule "external/emma"]
+	path = external/emma
+	url = git://android.git.kernel.org/platform/external/emma.git
+[submodule "external/esd"]
+	path = external/esd
+	url = git://android.git.kernel.org/platform/external/esd.git
+[submodule "external/expat"]
+	path = external/expat
+	url = git://android.git.kernel.org/platform/external/expat.git
+[submodule "external/fdlibm"]
+	path = external/fdlibm
+	url = git://android.git.kernel.org/platform/external/fdlibm.git
+[submodule "external/freetype"]
+	path = external/freetype
+	url = git://android.git.kernel.org/platform/external/freetype.git
+[submodule "external/gdata"]
+	path = external/gdata
+	url = git://android.git.kernel.org/platform/external/gdata.git
+[submodule "external/giflib"]
+	path = external/giflib
+	url = git://android.git.kernel.org/platform/external/giflib.git
+[submodule "external/googleclient"]
+	path = external/googleclient
+	url = git://android.git.kernel.org/platform/external/googleclient.git
+[submodule "external/icu4c"]
+	path = external/icu4c
+	url = git://android.git.kernel.org/platform/external/icu4c.git
+[submodule "external/iptables"]
+	path = external/iptables
+	url = git://android.git.kernel.org/platform/external/iptables.git
+[submodule "external/jdiff"]
+	path = external/jdiff
+	url = git://android.git.kernel.org/platform/external/jdiff.git
+[submodule "external/jhead"]
+	path = external/jhead
+	url = git://android.git.kernel.org/platform/external/jhead.git
+[submodule "external/jpeg"]
+	path = external/jpeg
+	url = git://android.git.kernel.org/platform/external/jpeg.git
+[submodule "external/libffi"]
+	path = external/libffi
+	url = git://android.git.kernel.org/platform/external/libffi.git
+[submodule "external/libpcap"]
+	path = external/libpcap
+	url = git://android.git.kernel.org/platform/external/libpcap.git
+[submodule "external/libpng"]
+	path = external/libpng
+	url = git://android.git.kernel.org/platform/external/libpng.git
+[submodule "external/libxml2"]
+	path = external/libxml2
+	url = git://android.git.kernel.org/platform/external/libxml2.git
+[submodule "external/netcat"]
+	path = external/netcat
+	url = git://android.git.kernel.org/platform/external/netcat.git
+[submodule "external/netperf"]
+	path = external/netperf
+	url = git://android.git.kernel.org/platform/external/netperf.git
+[submodule "external/neven"]
+	path = external/neven
+	url = git://android.git.kernel.org/platform/external/neven.git
+[submodule "external/opencore"]
+	path = external/opencore
+	url = git://android.git.kernel.org/platform/external/opencore.git
+[submodule "external/openssl"]
+	path = external/openssl
+	url = git://android.git.kernel.org/platform/external/openssl.git
+[submodule "external/oprofile"]
+	path = external/oprofile
+	url = git://android.git.kernel.org/platform/external/oprofile.git
+[submodule "external/ping"]
+	path = external/ping
+	url = git://android.git.kernel.org/platform/external/ping.git
+[submodule "external/ppp"]
+	path = external/ppp
+	url = git://android.git.kernel.org/platform/external/ppp.git
+[submodule "external/protobuf"]
+	path = external/protobuf
+	url = git://android.git.kernel.org/platform/external/protobuf.git
+[submodule "external/qemu"]
+	path = external/qemu
+	url = git://android.git.kernel.org/platform/external/qemu.git
+[submodule "external/safe-iop"]
+	path = external/safe-iop
+	url = git://android.git.kernel.org/platform/external/safe-iop.git
+[submodule "external/skia"]
+	path = external/skia
+	url = git://android.git.kernel.org/platform/external/skia.git
+[submodule "external/sonivox"]
+	path = external/sonivox
+	url = git://android.git.kernel.org/platform/external/sonivox.git
+[submodule "external/sqlite"]
+	path = external/sqlite
+	url = git://android.git.kernel.org/platform/external/sqlite.git
+[submodule "external/srec"]
+	path = external/srec
+	url = git://android.git.kernel.org/platform/external/srec.git
+[submodule "external/strace"]
+	path = external/strace
+	url = git://android.git.kernel.org/platform/external/strace.git
+[submodule "external/tagsoup"]
+	path = external/tagsoup
+	url = git://android.git.kernel.org/platform/external/tagsoup.git
+[submodule "external/tcpdump"]
+	path = external/tcpdump
+	url = git://android.git.kernel.org/platform/external/tcpdump.git
+[submodule "external/tesseract"]
+	path = external/tesseract
+	url = git://android.git.kernel.org/platform/external/tesseract.git
+[submodule "external/tinyxml"]
+	path = external/tinyxml
+	url = git://android.git.kernel.org/platform/external/tinyxml.git
+[submodule "external/tremor"]
+	path = external/tremor
+	url = git://android.git.kernel.org/platform/external/tremor.git
+[submodule "external/webkit"]
+	path = external/webkit
+	url = git://android.git.kernel.org/platform/external/webkit.git
+[submodule "external/wpa_supplicant"]
+	path = external/wpa_supplicant
+	url = git://android.git.kernel.org/platform/external/wpa_supplicant.git
+[submodule "external/yaffs2"]
+	path = external/yaffs2
+	url = git://android.git.kernel.org/platform/external/yaffs2.git
+[submodule "external/zlib"]
+	path = external/zlib
+	url = git://android.git.kernel.org/platform/external/zlib.git
+[submodule "frameworks/base"]
+	path = frameworks/base
+	url = git://android.git.kernel.org/platform/frameworks/base.git
+[submodule "frameworks/opt/com.google.android"]
+	path = frameworks/opt/com.google.android
+	url = git://android.git.kernel.org/platform/frameworks/opt/com.google.android.git
+[submodule "frameworks/opt/com.google.android.googlelogin"]
+	path = frameworks/opt/com.google.android.googlelogin
+	url = git://android.git.kernel.org/platform/frameworks/opt/com.google.android.googlelogin.git
+[submodule "frameworks/policies/base"]
+	path = frameworks/policies/base
+	url = git://android.git.kernel.org/platform/frameworks/policies/base.git
+[submodule "hardware/libhardware"]
+	path = hardware/libhardware
+	url = git://android.git.kernel.org/platform/hardware/libhardware.git
+[submodule "hardware/msm7k"]
+	path = hardware/msm7k
+	url = git://android.git.kernel.org/platform/hardware/msm7k.git
+[submodule "hardware/ril"]
+	path = hardware/ril
+	url = git://android.git.kernel.org/platform/hardware/ril.git
+[submodule "manifest"]
+	path = manifest
+	url = git://android.git.kernel.org/platform/manifest.git
+[submodule "packages/apps/AlarmClock"]
+	path = packages/apps/AlarmClock
+	url = git://android.git.kernel.org/platform/packages/apps/AlarmClock.git
+[submodule "packages/apps/Browser"]
+	path = packages/apps/Browser
+	url = git://android.git.kernel.org/platform/packages/apps/Browser.git
+[submodule "packages/apps/Calculator"]
+	path = packages/apps/Calculator
+	url = git://android.git.kernel.org/platform/packages/apps/Calculator.git
+[submodule "packages/apps/Calendar"]
+	path = packages/apps/Calendar
+	url = git://android.git.kernel.org/platform/packages/apps/Calendar.git
+[submodule "packages/apps/Camera"]
+	path = packages/apps/Camera
+	url = git://android.git.kernel.org/platform/packages/apps/Camera.git
+[submodule "packages/apps/Contacts"]
+	path = packages/apps/Contacts
+	url = git://android.git.kernel.org/platform/packages/apps/Contacts.git
+[submodule "packages/apps/Email"]
+	path = packages/apps/Email
+	url = git://android.git.kernel.org/platform/packages/apps/Email.git
+[submodule "packages/apps/GoogleSearch"]
+	path = packages/apps/GoogleSearch
+	url = git://android.git.kernel.org/platform/packages/apps/GoogleSearch.git
+[submodule "packages/apps/HTMLViewer"]
+	path = packages/apps/HTMLViewer
+	url = git://android.git.kernel.org/platform/packages/apps/HTMLViewer.git
+[submodule "packages/apps/IM"]
+	path = packages/apps/IM
+	url = git://android.git.kernel.org/platform/packages/apps/IM.git
+[submodule "packages/apps/Launcher"]
+	path = packages/apps/Launcher
+	url = git://android.git.kernel.org/platform/packages/apps/Launcher.git
+[submodule "packages/apps/Mms"]
+	path = packages/apps/Mms
+	url = git://android.git.kernel.org/platform/packages/apps/Mms.git
+[submodule "packages/apps/Music"]
+	path = packages/apps/Music
+	url = git://android.git.kernel.org/platform/packages/apps/Music.git
+[submodule "packages/apps/PackageInstaller"]
+	path = packages/apps/PackageInstaller
+	url = git://android.git.kernel.org/platform/packages/apps/PackageInstaller.git
+[submodule "packages/apps/Phone"]
+	path = packages/apps/Phone
+	url = git://android.git.kernel.org/platform/packages/apps/Phone.git
+[submodule "packages/apps/Settings"]
+	path = packages/apps/Settings
+	url = git://android.git.kernel.org/platform/packages/apps/Settings.git
+[submodule "packages/apps/SoundRecorder"]
+	path = packages/apps/SoundRecorder
+	url = git://android.git.kernel.org/platform/packages/apps/SoundRecorder.git
+[submodule "packages/apps/Stk"]
+	path = packages/apps/Stk
+	url = git://android.git.kernel.org/platform/packages/apps/Stk.git
+[submodule "packages/apps/Sync"]
+	path = packages/apps/Sync
+	url = git://android.git.kernel.org/platform/packages/apps/Sync.git
+[submodule "packages/apps/Updater"]
+	path = packages/apps/Updater
+	url = git://android.git.kernel.org/platform/packages/apps/Updater.git
+[submodule "packages/apps/VoiceDialer"]
+	path = packages/apps/VoiceDialer
+	url = git://android.git.kernel.org/platform/packages/apps/VoiceDialer.git
+[submodule "packages/providers/CalendarProvider"]
+	path = packages/providers/CalendarProvider
+	url = git://android.git.kernel.org/platform/packages/providers/CalendarProvider.git
+[submodule "packages/providers/ContactsProvider"]
+	path = packages/providers/ContactsProvider
+	url = git://android.git.kernel.org/platform/packages/providers/ContactsProvider.git
+[submodule "packages/providers/DownloadProvider"]
+	path = packages/providers/DownloadProvider
+	url = git://android.git.kernel.org/platform/packages/providers/DownloadProvider.git
+[submodule "packages/providers/DrmProvider"]
+	path = packages/providers/DrmProvider
+	url = git://android.git.kernel.org/platform/packages/providers/DrmProvider.git
+[submodule "packages/providers/GoogleContactsProvider"]
+	path = packages/providers/GoogleContactsProvider
+	url = git://android.git.kernel.org/platform/packages/providers/GoogleContactsProvider.git
+[submodule "packages/providers/GoogleSubscribedFeedsProvider"]
+	path = packages/providers/GoogleSubscribedFeedsProvider
+	url = git://android.git.kernel.org/platform/packages/providers/GoogleSubscribedFeedsProvider.git
+[submodule "packages/providers/ImProvider"]
+	path = packages/providers/ImProvider
+	url = git://android.git.kernel.org/platform/packages/providers/ImProvider.git
+[submodule "packages/providers/MediaProvider"]
+	path = packages/providers/MediaProvider
+	url = git://android.git.kernel.org/platform/packages/providers/MediaProvider.git
+[submodule "packages/providers/TelephonyProvider"]
+	path = packages/providers/TelephonyProvider
+	url = git://android.git.kernel.org/platform/packages/providers/TelephonyProvider.git
+[submodule "prebuilt"]
+	path = prebuilt
+	url = git://android.git.kernel.org/platform/prebuilt.git
+[submodule "recovery"]
+	path = recovery
+	url = git://android.git.kernel.org/platform/recovery.git
+[submodule "system/bluetooth"]
+	path = system/bluetooth
+	url = git://android.git.kernel.org/platform/system/bluetooth.git
+[submodule "system/core"]
+	path = system/core
+	url = git://android.git.kernel.org/platform/system/core.git
+[submodule "system/extras"]
+	path = system/extras
+	url = git://android.git.kernel.org/platform/system/extras.git
+[submodule "system/wlan/ti"]
+	path = system/wlan/ti
+	url = git://android.git.kernel.org/platform/system/wlan/ti.git
+[submodule "vendor/htc/dream"]
+	path = vendor/htc/dream
+	url = git://android.git.kernel.org/platform/vendor/htc/dream.git
